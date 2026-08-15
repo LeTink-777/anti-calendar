@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="warn" cx="0.5" cy="0" r="0.85">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+  <rect width="1200" height="630" fill="url(#warn)"/>
+  <rect x="26" y="26" width="1148" height="578" rx="18" fill="none" stroke="#262626" stroke-width="2"/>
+
+  <g transform="translate(700,140)">
+    <g fill="none" stroke="#262626" stroke-width="2">
+      <rect x="0" y="0" width="52" height="52" rx="7"/><rect x="62" y="0" width="52" height="52" rx="7"/>
+      <rect x="124" y="0" width="52" height="52" rx="7"/><rect x="186" y="0" width="52" height="52" rx="7"/>
+      <rect x="248" y="0" width="52" height="52" rx="7"/><rect x="310" y="0" width="52" height="52" rx="7"/>
+      <rect x="0" y="62" width="52" height="52" rx="7"/><rect x="62" y="62" width="52" height="52" rx="7"/>
+      <rect x="124" y="62" width="52" height="52" rx="7"/><rect x="186" y="62" width="52" height="52" rx="7"/>
+      <rect x="248" y="62" width="52" height="52" rx="7"/><rect x="310" y="62" width="52" height="52" rx="7"/>
+      <rect x="0" y="124" width="52" height="52" rx="7"/><rect x="62" y="124" width="52" height="52" rx="7"/>
+      <rect x="124" y="124" width="52" height="52" rx="7"/><rect x="186" y="124" width="52" height="52" rx="7"/>
+      <rect x="248" y="124" width="52" height="52" rx="7"/><rect x="310" y="124" width="52" height="52" rx="7"/>
+      <rect x="0" y="186" width="52" height="52" rx="7"/><rect x="62" y="186" width="52" height="52" rx="7"/>
+      <rect x="124" y="186" width="52" height="52" rx="7"/><rect x="186" y="186" width="52" height="52" rx="7"/>
+      <rect x="248" y="186" width="52" height="52" rx="7"/><rect x="310" y="186" width="52" height="52" rx="7"/>
+    </g>
+    <g stroke="#EF4444" stroke-width="5" stroke-linecap="round">
+      <path d="M76 14l24 24M100 14l-24 24"/>
+      <path d="M262 76l24 24M286 76l-24 24"/>
+      <path d="M14 138l24 24M38 138l-24 24"/>
+      <path d="M200 200l24 24M224 200l-24 24"/>
+      <path d="M324 138l24 24M348 138l-24 24"/>
+    </g>
+    <g stroke="#22C55E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M138 20l9 10 17-18"/>
+      <path d="M14 82l9 10 17-18"/>
+      <path d="M262 206l9 10 17-18"/>
+    </g>
+  </g>
+
+  <text x="80" y="252" font-family="Helvetica, Arial, sans-serif"
+        font-size="64" font-weight="bold" fill="#FAFAFA">Антикалендарь</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif"
+        font-size="44" font-weight="bold" fill="#EF4444">опасных дней</text>
+
+  <text x="80" y="402" font-family="Helvetica, Arial, sans-serif"
+        font-size="26" fill="#A1A1AA">Когда лучше не действовать —</text>
+  <text x="80" y="440" font-family="Helvetica, Arial, sans-serif"
+        font-size="26" fill="#A1A1AA">по вашей дате рождения</text>
+
+  <text x="80" y="562" font-family="Helvetica, Arial, sans-serif"
+        font-size="23" fill="#EF4444" letter-spacing="2">UDACHNYE-DNI.ONLINE</text>
+</svg>
